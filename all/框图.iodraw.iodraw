@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="80" width="500" height="310" as="geometry" />
+          <mxGeometry x="180" y="80" width="570" height="290" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-2" value="FPGA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="60" height="30" as="geometry" />
@@ -55,8 +55,14 @@
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-17" value="汉宁窗" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="384" y="150" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="kvgXi9FlCPbCGpIy7UK7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-19" target="kvgXi9FlCPbCGpIy7UK7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-19" value="FFT(1024)" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kvgXi9FlCPbCGpIy7UK7-21" value="FFT(1024)" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
