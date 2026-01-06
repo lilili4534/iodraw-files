@@ -41,12 +41,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-14" value="I2s_loop" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="60" height="120" as="geometry" />
+          <mxGeometry x="280" y="125" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="180" as="sourcePoint" />
-            <mxPoint x="290" y="180" as="targetPoint" />
+            <mxPoint x="230" y="178.82" as="sourcePoint" />
+            <mxPoint x="280" y="178.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-17" target="kvgXi9FlCPbCGpIy7UK7-19">
@@ -65,7 +65,7 @@
           <mxGeometry x="600" y="290" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="240" height="140" as="geometry" />
+          <mxGeometry x="330" y="100" width="300" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
