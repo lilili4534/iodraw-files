@@ -58,6 +58,9 @@
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-19" value="FFT(1024)" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="460" y="120" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="kvgXi9FlCPbCGpIy7UK7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-21" target="kvgXi9FlCPbCGpIy7UK7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-21" value="梅尔频率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="60" height="120" as="geometry" />
         </mxCell>
@@ -81,8 +84,8 @@
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-30" value="上位机&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="800" y="120" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kvgXi9FlCPbCGpIy7UK7-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="kvgXi9FlCPbCGpIy7UK7-32" value="以太网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="148" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
