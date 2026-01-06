@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="570" height="290" as="geometry" />
+          <mxGeometry x="180" y="40" width="570" height="290" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-2" value="FPGA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-3" target="kvgXi9FlCPbCGpIy7UK7-4">
           <mxGeometry relative="1" as="geometry" />
@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="190" as="sourcePoint" />
-            <mxPoint x="290" y="190" as="targetPoint" />
+            <mxPoint x="240" y="180" as="sourcePoint" />
+            <mxPoint x="290" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-17" target="kvgXi9FlCPbCGpIy7UK7-19">
