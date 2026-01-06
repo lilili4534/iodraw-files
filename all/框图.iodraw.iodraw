@@ -64,9 +64,6 @@
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-21" value="梅尔频率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="530" y="120" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kvgXi9FlCPbCGpIy7UK7-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="78" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
