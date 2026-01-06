@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-14" value="I2s_loop" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="290" y="120" width="60" height="120" as="geometry" />
+          <mxGeometry x="250" y="320" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,13 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-17" value="汉宁窗" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="60" height="120" as="geometry" />
+          <mxGeometry x="414" y="310" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvgXi9FlCPbCGpIy7UK7-19" target="kvgXi9FlCPbCGpIy7UK7-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-19" value="FFT(1024)" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="450" y="120" width="60" height="120" as="geometry" />
+          <mxGeometry x="500" y="300" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kvgXi9FlCPbCGpIy7UK7-21" value="梅尔频率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="530" y="120" width="60" height="120" as="geometry" />
