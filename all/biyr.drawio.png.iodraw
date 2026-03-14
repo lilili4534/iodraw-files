@@ -49,7 +49,7 @@
         <mxCell id="hfMcYu0yR0Md0AvldqHa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hfMcYu0yR0Md0AvldqHa-8" target="hfMcYu0yR0Md0AvldqHa-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hfMcYu0yR0Md0AvldqHa-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-8" value="CNN硬件加速器设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hfMcYu0yR0Md0AvldqHa-10" target="hfMcYu0yR0Md0AvldqHa-12">
