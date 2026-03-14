@@ -15,11 +15,17 @@
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="160" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="sourcePoint" />
             <mxPoint x="520" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="160" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
