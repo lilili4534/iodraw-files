@@ -64,12 +64,13 @@
         <mxCell id="hfMcYu0yR0Md0AvldqHa-14" value="设计验证" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfMcYu0yR0Md0AvldqHa-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hfMcYu0yR0Md0AvldqHa-12">
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfMcYu0yR0Md0AvldqHa-12" target="hfMcYu0yR0Md0AvldqHa-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="480" as="sourcePoint" />
             <mxPoint x="450" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="580" />
+              <mxPoint x="400" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
