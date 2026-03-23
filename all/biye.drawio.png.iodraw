@@ -59,7 +59,7 @@
             <mxPoint x="280" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfMcYu0yR0Md0AvldqHa-12" value="神经网络微调" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-12" value="神经网络微调" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-14" value="设计验证" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
