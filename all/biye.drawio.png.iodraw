@@ -45,7 +45,7 @@
         <mxCell id="hfMcYu0yR0Md0AvldqHa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hfMcYu0yR0Md0AvldqHa-7" target="hfMcYu0yR0Md0AvldqHa-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hfMcYu0yR0Md0AvldqHa-7" value="音频采集外设" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-7" value="音频采集外设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hfMcYu0yR0Md0AvldqHa-8" target="hfMcYu0yR0Md0AvldqHa-14" edge="1">
@@ -140,7 +140,7 @@
         <mxCell id="hfMcYu0yR0Md0AvldqHa-32" value="软件端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="210" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hfMcYu0yR0Md0AvldqHa-33" value="硬件端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="hfMcYu0yR0Md0AvldqHa-33" value="硬件端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="530" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
