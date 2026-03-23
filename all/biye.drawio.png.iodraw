@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-17" value="FPGA硬件加器设计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfMcYu0yR0Md0AvldqHa-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hfMcYu0yR0Md0AvldqHa-14" target="hfMcYu0yR0Md0AvldqHa-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
